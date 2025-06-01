@@ -51,7 +51,7 @@ To run this application, you need the following:
 1. Run the application:
 
     ```bash
-    python app.py
+    python main.ipynb
     ```
 
 2. Upload an Excel file containing the login credentials. Ensure the file has the following columns:
